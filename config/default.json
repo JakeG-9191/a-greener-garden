@@ -1,0 +1,4 @@
+{
+  "jwtPrivate": "12345",
+  "db": "mongodb://localhost/a-greener-garden"
+}
